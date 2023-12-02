@@ -1,0 +1,19 @@
+{
+  "pathsToIds" : {
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "CB766F92-EE55-4A63-9401-E7B8C009764D",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Immersive.usda" : "65F6F990-A780-4474-B78B-572E0E4E273D",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled Scene.usda" : "D560BB77-AAF3-4BDE-B7C4-989332A4688B",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "66168B71-AB05-424E-8B6C-D33D6E61B08F",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Immersive.usda" : "AF09ED6F-1707-48FD-8720-65B998362C09",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Main\/Fireplace.usdz" : "5D4A3611-C621-418F-807B-D2D34DCB9878",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Main\/Immersive.usda" : "801D487E-88B3-42D8-8011-ADD4FC923A37",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Main\/Scene.usda" : "63727863-F6CA-460A-871C-BAFE20A45711",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Main\/ScratchedMetallicPaint.usdz" : "C2926DAB-8CE7-4B9D-B6C7-8CB625AABF79",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Materials\/GridMaterial.usda" : "07039D03-7E26-4A4D-A87C-B03E5B5BAB72",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "D66134B1-3681-4A8E-AFE5-29F257229F3B",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Secondary.usda" : "F4B889C2-3775-4482-A774-74BE3CD4A97C",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Secondary\/Animated_fire 1.usdz" : "F3CB9E90-E186-4DE5-B94E-771F9586B802",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Secondary\/Secondary.usda" : "66A8D06B-9B58-4D03-8103-C84622C19045"
+  }
+}
